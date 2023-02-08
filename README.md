@@ -11,7 +11,7 @@ FRONTEND SPA: https://github.com/RodrigoTopan/appointify-spa
 
 ```
 
-## Introdução: Contexto da Solução 
+## 1. Introdução: Contexto da Solução 
 
 Atualmente, muitos pequenos comércios, como salões de beleza e barbeiros, possuem aplicativos ou websites para agendamentos de serviços, facilitando a vida dos clientes. Esses aplicativos geralmente são simples e possuem telas para cadastro de clientes e gestão administrativa. Eles também oferecem promoções para fidelização, como serviços gratuitos após uma certa quantidade de agendamentos. No entanto, esses aplicativos podem ter custos elevados, como a contratação de desenvolvedores e manutenção de sistemas, impedindo que pequenos comércios e empreendedores individuais os utilizem. Além disso, esses aplicativos geralmente não atraem novos clientes e se restringem a fidelizar a base de clientes existente. 
 
